@@ -11,10 +11,8 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+# Front-end project
+## [Here](https://github.com/Trictonicmp/hello-react-front-end)
 
 ## Getting Started
 
