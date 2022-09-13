@@ -11,6 +11,8 @@
 - Ruby on Rails
 - Rubocop, git, github
 
+# Front-end project
+## [Here](https://github.com/Trictonicmp/hello-react-front-end)
 
 
 ## Getting Started
